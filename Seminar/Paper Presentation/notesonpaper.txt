@@ -1,0 +1,42 @@
+﻿NES PAPER PRESENTATION:
+Paper structure:
+1. Introduction 
+2. high level overview of IoT applications and devices
+3. a brief presentation on hardware and software characteristics of IoT
+4. electronic design automation (EDA) tools to support IoT 
+5. Wireless technologies and their challenges for connectivity of IoT devices 
+6. Conclusion
+
+//
+1 Introduction
+2 Properties of Devices and Applications
+2.1 Application Areas
+2.2 Applications vs. Devices
+3 Hardware & Software Architecture for IoT
+3.1 Efﬁciency at Different Stages
+3.2 Different Computing Layers
+3.3 Approximate vs. Exact Computing
+4 IoT Electronic Design Automation (EDA) Tools
+5 Connectivity
+5.1 Wireless Communication Technologies
+5.2 Timing of Communication
+5.3 Bandwidth & Data Rate of IoT Sensors
+5.4 Analysis & Insight
+6 Conclusions
+//
+
+Application areas/domain (but not limited to these categories)
+- Healthcare
+- Assisted Living
+- Smart Building and Home
+- Smart City
+- Smart Industry
+
+3 Hardware & Software Architecture for IoT:
+3.1 General stages of IoT applications: They are designed at HW and SW levels.
+{The First and last stages exist on every application, while the processing and storage may or may not exist in some applications}
+1) data acquisition, 
+2) data processing, 
+3) data storage, and 
+4) data transmission.
+	
